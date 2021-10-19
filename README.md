@@ -1,7 +1,7 @@
 # imparaticcio
 Imparaticcio
-àpòoiupàopàò
-iyuoliuyolyiuoly
-pòpoiòàpoò
+ambarabba'
+cicci'
+cocco'
 
 commit!
