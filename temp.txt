@@ -1,0 +1,9 @@
+pqsRepLoc(cnn, vvst, vrep, vval, vvda, vvlo)
+---------
+SELECT ptaSTRUTTURE.cteSTRDenominazione, ptaSTRUTTURE.cccSTRCodice, ptaVERINTEST.cteVINRepNom, ptaVERINTEST.cteVINRepCod, ptaVERINTEST.cteVINLocNom, ptaVERINTEST.cteVINLocCod, ptaVERINTEST.cteVINLocTip, ptaVERINTEST.cteVINLocPia FROM staPROVEDISPOSITIVI, ptaVERINTEST INNER JOIN ptaSTRUTTURE ON ptaVERINTEST.cinVINStruttura = ptaSTRUTTURE.cccSTRCodice GROUP BY ptaSTRUTTURE.cteSTRDenominazione, ptaSTRUTTURE.cccSTRCodice, ptaVERINTEST.cteVINRepNom, ptaVERINTEST.cteVINRepCod, ptaVERINTEST.cteVINLocNom, ptaVERINTEST.cteVINLocCod, ptaVERINTEST.cteVINLocTip, ptaVERINTEST.cteVINLocPia;
+
+vvst, vrep, vvlo, vvda, vval
+pqsRepRep(cnn, vvst, vrep, vval, vvda)
+---------
+SELECT ptaSTRUTTURE.cteSTRDenominazione, ptaSTRUTTURE.cccSTRCodice, ptaVERINTEST.cteVINRepNom, ptaVERINTEST.cteVINRepCod FROM staPROVEDISPOSITIVI, ptaVERINTEST INNER JOIN ptaSTRUTTURE ON ptaVERINTEST.cinVINStruttura = ptaSTRUTTURE.cccSTRCodice GROUP BY ptaSTRUTTURE.cteSTRDenominazione, ptaSTRUTTURE.cccSTRCodice, ptaVERINTEST.cteVINRepNom, ptaVERINTEST.cteVINRepCod;
+
