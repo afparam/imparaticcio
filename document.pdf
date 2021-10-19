@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+
+<!--
+####################
+#
+# LIBRERIA FUNZIONI
+#
+####################
+-->
+
+<html>
+
+
+<body>
+
+
+
+</body>
+
+
+</html>
+
+
+<!--
+###################
+#
+# CREAZIONE REPORT 
+#
+###################
+-->
+
+%PDF-1.3
+%PDF-1.3
+%PDF-1.3
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Length 3560>>
+stream
+2 J
+0.57 w
+q 113.39 0 0 43.35 28.35 784.36 cm /I1 Do Q
+BT /F1 20.00 Tf ET
+BT 136.51 743.76 Td (SMART CLINIC PIEVE FISSIRAGA) Tj ET
+BT /F2 16.00 Tf ET
+BT 142.05 716.62 Td (REGISTRO DEI CONTROLLI - ANNO 2021) Tj ET
+BT /F2 10.00 Tf ET
+BT 120.34 690.07 Td (Verifica del collegamento al nodo equipotenziale del trasformatore di isolamento) Tj ET 120.34 689.07 354.60 -0.50 re f
+BT 221.21 675.90 Td (Norma CEI 64-8/7, V2 sez. 710.62) Tj ET 221.21 674.90 152.85 -0.50 re f
+BT 31.19 661.72 Td (Struttura:) Tj ET
+BT /F1 10.00 Tf ET
+BT 87.87 661.72 Td (SMART CLINIC PIEVE FISSIRAGA) Tj ET
+BT 342.99 661.72 Td (10) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 647.55 Td (Reparto:) Tj ET
+BT /F1 10.00 Tf ET
+BT 87.87 647.55 Td (SMART CLINIC PIEVE FISSIRAGA) Tj ET
+BT 342.99 647.55 Td (SCPF) Tj ET
+BT 31.18 619.20 Td (Tipo) Tj ET
+BT 144.57 619.20 Td (ID) Tj ET
+BT 201.26 619.20 Td (Descrizione) Tj ET
+BT 428.03 619.20 Td (Caratteristiche) Tj ET
+BT 31.18 605.03 Td (R1 \(mOhm\) ) Tj ET
+BT 172.91 605.03 Td (R2 \(mOhm\)) Tj ET
+BT 399.69 605.03 Td (Esito) Tj ET
+BT 456.38 605.03 Td (Data) Tj ET
+BT /F3 10.00 Tf ET
+BT 31.18 590.86 Td (Locali) Tj ET
+BT 87.87 590.86 Td (Descrizione) Tj ET
+BT 201.26 590.86 Td (Codice) Tj ET
+28.35 586.77 m 566.93 586.77 l S
+28.35 583.94 m 566.93 583.94 l S
+BT /F2 10.00 Tf ET
+BT 31.18 562.51 Td (TRASFORMATORE) Tj ET
+BT 144.57 562.51 Td (1) Tj ET
+BT 201.26 562.51 Td (TRASFORMATORE 1) Tj ET
+BT 428.03 562.51 Td (12 Volt) Tj ET
+BT 31.18 548.34 Td (55) Tj ET
+BT 172.91 548.34 Td (OK) Tj ET
+BT 399.69 548.34 Td (Positivo) Tj ET
+BT 456.38 548.34 Td (01/08/2021) Tj ET
+BT /F4 8.00 Tf ET
+BT 87.87 534.77 Td (STUDIO ODONTOIATRICO 1) Tj ET
+BT 201.26 534.77 Td (32) Tj ET
+BT 87.87 520.59 Td (STUDIO ODONTOIATRICO 2) Tj ET
+BT 201.26 520.59 Td (33) Tj ET
+BT 87.87 506.42 Td (STUDIO ODONTOIATRICO 3) Tj ET
+BT 201.26 506.42 Td (34) Tj ET
+BT /F2 10.00 Tf ET
+28.35 501.73 m 566.93 501.73 l S
+BT 31.18 491.65 Td (TRASFORMATORE) Tj ET
+BT 144.57 491.65 Td (2) Tj ET
+BT 201.26 491.65 Td (TRASFORMATORE 2) Tj ET
+BT 428.03 491.65 Td (12 Volt) Tj ET
+BT 31.18 477.47 Td (55) Tj ET
+BT 172.91 477.47 Td (OK) Tj ET
+BT 399.69 477.47 Td (Positivo) Tj ET
+BT 456.38 477.47 Td (01/08/2021) Tj ET
+BT /F4 8.00 Tf ET
+BT 87.87 463.90 Td (BOX 1) Tj ET
+BT 201.26 463.90 Td (09) Tj ET
+BT 87.87 449.73 Td (BOX 2) Tj ET
+BT 201.26 449.73 Td (10) Tj ET
+BT 87.87 435.55 Td (BOX 3) Tj ET
+BT 201.26 435.55 Td (11) Tj ET
+BT /F2 10.00 Tf ET
+28.35 430.87 m 566.93 430.87 l S
+BT /F4 8.00 Tf ET
+BT /F2 10.00 Tf ET
+28.35 430.87 m 566.93 430.87 l S
+BT /F4 8.00 Tf ET
+BT /F2 10.00 Tf ET
+28.35 430.87 m 566.93 430.87 l S
+28.35 119.06 m 28.35 62.36 l S 28.35 119.06 m 566.93 119.06 l S 566.93 119.06 m 566.93 62.36 l S 28.35 62.36 m 566.93 62.36 l S 
+BT /F1 10.00 Tf ET
+BT 31.19 108.97 Td (Strumenti utilizzati) Tj ET
+BT /F1 8.00 Tf ET
+BT 31.19 95.40 Td (costruttore) Tj ET
+BT 172.91 95.40 Td (modello) Tj ET
+BT 286.30 95.40 Td (matricola) Tj ET
+BT 428.03 95.40 Td (scadenza taratura) Tj ET
+BT /F2 8.00 Tf ET
+BT 172.91 81.22 Td (Kit con resistenza 47 Kohm < 50 Kohm come da norma) Tj ET
+BT 428.03 81.22 Td (31/12/2021) Tj ET
+BT 31.19 67.05 Td (FLUKE BIOMEDICAL CORP.) Tj ET
+BT 172.91 67.05 Td (ESA620) Tj ET
+BT 286.30 67.05 Td (9896035) Tj ET
+BT 428.03 67.05 Td (31/12/2021) Tj ET
+BT /F1 8.00 Tf ET
+BT 31.19 44.37 Td (data:) Tj ET
+BT /F2 8.00 Tf ET
+BT 59.53 44.37 Td (01/08/2021) Tj ET
+BT /F1 8.00 Tf ET
+BT 144.57 44.37 Td (Esecutore Verifica:) Tj ET
+BT /F2 8.00 Tf ET
+BT 229.61 44.37 Td (CAPO DI TUTTI I CAPI) Tj ET
+BT /F1 8.00 Tf ET
+BT 371.34 44.37 Td (firma:) Tj ET
+q 56.69 0 0 26.07 396.85 27.79 cm /I2 Do Q
+
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Contents 6 0 R>>
+endobj
+6 0 obj
+<</Length 3578>>
+stream
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+q 113.39 0 0 43.35 28.35 784.36 cm /I1 Do Q
+BT /F1 20.00 Tf ET
+BT 136.51 743.76 Td (SMART CLINIC PIEVE FISSIRAGA) Tj ET
+BT /F2 16.00 Tf ET
+BT 142.05 716.62 Td (REGISTRO DEI CONTROLLI - ANNO 2021) Tj ET
+BT /F2 10.00 Tf ET
+BT 120.34 690.07 Td (Verifica del collegamento al nodo equipotenziale del trasformatore di isolamento) Tj ET 120.34 689.07 354.60 -0.50 re f
+BT 221.21 675.90 Td (Norma CEI 64-8/7, V2 sez. 710.62) Tj ET 221.21 674.90 152.85 -0.50 re f
+BT 31.19 661.72 Td (Struttura:) Tj ET
+BT /F1 10.00 Tf ET
+BT 87.87 661.72 Td (SMART CLINIC PIEVE FISSIRAGA) Tj ET
+BT 342.99 661.72 Td (10) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 647.55 Td (Reparto:) Tj ET
+BT /F1 10.00 Tf ET
+BT 87.87 647.55 Td (SMART CLINIC PIEVE FISSIRAGA) Tj ET
+BT 342.99 647.55 Td (SCPF) Tj ET
+BT 31.18 619.20 Td (Tipo) Tj ET
+BT 144.57 619.20 Td (ID) Tj ET
+BT 201.26 619.20 Td (Descrizione) Tj ET
+BT 428.03 619.20 Td (Caratteristiche) Tj ET
+BT 31.18 605.03 Td (R1 \(mOhm\) ) Tj ET
+BT 172.91 605.03 Td (R2 \(mOhm\)) Tj ET
+BT 399.69 605.03 Td (Esito) Tj ET
+BT 456.38 605.03 Td (Data) Tj ET
+BT /F3 10.00 Tf ET
+BT 31.18 590.86 Td (Locali) Tj ET
+BT 87.87 590.86 Td (Descrizione) Tj ET
+BT 201.26 590.86 Td (Codice) Tj ET
+28.35 586.77 m 566.93 586.77 l S
+28.35 583.94 m 566.93 583.94 l S
+BT /F2 10.00 Tf ET
+BT /F4 8.00 Tf ET
+BT /F2 10.00 Tf ET
+28.35 572.60 m 566.93 572.60 l S
+BT /F4 8.00 Tf ET
+BT /F2 10.00 Tf ET
+28.35 572.60 m 566.93 572.60 l S
+BT 31.18 562.51 Td (TRASFORMATORE) Tj ET
+BT 144.57 562.51 Td (1) Tj ET
+BT 201.26 562.51 Td (TRASFORMATORE 1) Tj ET
+BT 428.03 562.51 Td (12 Volt) Tj ET
+BT 31.18 548.34 Td (55) Tj ET
+BT 172.91 548.34 Td (OK) Tj ET
+BT 399.69 548.34 Td (Positivo) Tj ET
+BT 456.38 548.34 Td (01/04/2021) Tj ET
+BT /F4 8.00 Tf ET
+BT 87.87 534.77 Td (STUDIO ODONTOIATRICO 1) Tj ET
+BT 201.26 534.77 Td (32) Tj ET
+BT 87.87 520.59 Td (STUDIO ODONTOIATRICO 2) Tj ET
+BT 201.26 520.59 Td (33) Tj ET
+BT 87.87 506.42 Td (STUDIO ODONTOIATRICO 3) Tj ET
+BT 201.26 506.42 Td (34) Tj ET
+BT /F2 10.00 Tf ET
+28.35 501.73 m 566.93 501.73 l S
+BT 31.18 491.65 Td (TRASFORMATORE) Tj ET
+BT 144.57 491.65 Td (2) Tj ET
+BT 201.26 491.65 Td (TRASFORMATORE 2) Tj ET
+BT 428.03 491.65 Td (12 Volt) Tj ET
+BT 31.18 477.47 Td (55) Tj ET
+BT 172.91 477.47 Td (OK) Tj ET
+BT 399.69 477.47 Td (Positivo) Tj ET
+BT 456.38 477.47 Td (01/04/2021) Tj ET
+BT /F4 8.00 Tf ET
+BT 87.87 463.90 Td (BOX 1) Tj ET
+BT 201.26 463.90 Td (09) Tj ET
+BT 87.87 449.73 Td (BOX 2) Tj ET
+BT 201.26 449.73 Td (10) Tj ET
+BT 87.87 435.55 Td (BOX 3) Tj ET
+BT 201.26 435.55 Td (11) Tj ET
+BT /F2 10.00 Tf ET
+28.35 430.87 m 566.93 430.87 l S
+28.35 119.06 m 28.35 62.36 l S 28.35 119.06 m 566.93 119.06 l S 566.93 119.06 m 566.93 62.36 l S 28.35 62.36 m 566.93 62.36 l S 
+BT /F1 10.00 Tf ET
+BT 31.19 108.97 Td (Strumenti utilizzati) Tj ET
+BT /F1 8.00 Tf ET
+BT 31.19 95.40 Td (costruttore) Tj ET
+BT 172.91 95.40 Td (modello) Tj ET
+BT 286.30 95.40 Td (matricola) Tj ET
+BT 428.03 95.40 Td (scadenza taratura) Tj ET
+BT /F2 8.00 Tf ET
+BT 172.91 81.22 Td (Kit con resistenza 47 Kohm < 50 Kohm come da norma) Tj ET
+BT 428.03 81.22 Td (31/12/2021) Tj ET
+BT 31.19 67.05 Td (FLUKE BIOMEDICAL CORP.) Tj ET
+BT 172.91 67.05 Td (ESA620) Tj ET
+BT 286.30 67.05 Td (9896035) Tj ET
+BT 428.03 67.05 Td (31/12/2021) Tj ET
+BT /F1 8.00 Tf ET
+BT 31.19 44.37 Td (data:) Tj ET
+BT /F2 8.00 Tf ET
+BT 59.53 44.37 Td (01/04/2021) Tj ET
+BT /F1 8.00 Tf ET
+BT 144.57 44.37 Td (Esecutore Verifica:) Tj ET
+BT /F2 8.00 Tf ET
+BT 229.61 44.37 Td (CAPO DI TUTTI I CAPI) Tj ET
+BT /F1 8.00 Tf ET
+BT 371.34 44.37 Td (firma:) Tj ET
+q 56.69 0 0 26.07 396.85 27.79 cm /I2 Do Q
+
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Contents 8 0 R>>
+endobj
+8 0 obj
+<</Length 3260>>
+stream
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+q 113.39 0 0 43.35 28.35 784.36 cm /I1 Do Q
+BT /F1 20.00 Tf ET
+BT 136.51 743.76 Td (SMART CLINIC PIEVE FISSIRAGA) Tj ET
+BT /F2 16.00 Tf ET
+BT 142.05 716.62 Td (REGISTRO DEI CONTROLLI - ANNO 2021) Tj ET
+BT /F2 10.00 Tf ET
+BT 171.21 690.07 Td (Dispositivi di allarme - Norma CEI 64-8/7, V2 sez. 710.62) Tj ET 171.21 689.07 252.86 -0.50 re f
+BT 31.19 661.72 Td (Struttura:) Tj ET
+BT /F1 10.00 Tf ET
+BT 87.87 661.72 Td (SMART CLINIC PIEVE FISSIRAGA) Tj ET
+BT 342.99 661.72 Td (10) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 647.55 Td (Reparto:) Tj ET
+BT /F1 10.00 Tf ET
+BT 87.87 647.55 Td (SMART CLINIC PIEVE FISSIRAGA) Tj ET
+BT 342.99 647.55 Td (SCPF) Tj ET
+BT 31.18 619.20 Td (Tipo) Tj ET
+BT 144.57 619.20 Td (ID) Tj ET
+BT 201.26 619.20 Td (Descrizione) Tj ET
+BT 428.03 619.20 Td (Caratteristiche) Tj ET
+BT 399.69 605.03 Td (Esito) Tj ET
+BT 456.38 605.03 Td (Data) Tj ET
+BT /F3 10.00 Tf ET
+BT 31.18 590.86 Td (Locali) Tj ET
+BT 87.87 590.86 Td (Descrizione) Tj ET
+BT 201.26 590.86 Td (Codice) Tj ET
+28.35 586.77 m 566.93 586.77 l S
+28.35 583.94 m 566.93 583.94 l S
+BT /F2 10.00 Tf ET
+BT 31.18 562.51 Td (TRASFORMATORE) Tj ET
+BT 144.57 562.51 Td (1) Tj ET
+BT 201.26 562.51 Td (TRASFORMATORE 1) Tj ET
+BT 428.03 562.51 Td (12 Volt) Tj ET
+BT 399.69 548.34 Td (Positivo) Tj ET
+BT 456.38 548.34 Td (01/08/2021) Tj ET
+BT /F4 8.00 Tf ET
+BT 87.87 534.77 Td (STUDIO ODONTOIATRICO 1) Tj ET
+BT 201.26 534.77 Td (32) Tj ET
+BT 87.87 520.59 Td (STUDIO ODONTOIATRICO 2) Tj ET
+BT 201.26 520.59 Td (33) Tj ET
+BT 87.87 506.42 Td (STUDIO ODONTOIATRICO 3) Tj ET
+BT 201.26 506.42 Td (34) Tj ET
+BT /F2 10.00 Tf ET
+28.35 501.73 m 566.93 501.73 l S
+BT 31.18 491.65 Td (TRASFORMATORE) Tj ET
+BT 144.57 491.65 Td (2) Tj ET
+BT 201.26 491.65 Td (TRASFORMATORE 2) Tj ET
+BT 428.03 491.65 Td (12 Volt) Tj ET
+BT 399.69 477.47 Td (Positivo) Tj ET
+BT 456.38 477.47 Td (01/08/2021) Tj ET
+BT /F4 8.00 Tf ET
+BT 87.87 463.90 Td (BOX 1) Tj ET
+BT 201.26 463.90 Td (09) Tj ET
+BT 87.87 449.73 Td (BOX 2) Tj ET
+BT 201.26 449.73 Td (10) Tj ET
+BT 87.87 435.55 Td (BOX 3) Tj ET
+BT 201.26 435.55 Td (11) Tj ET
+BT /F2 10.00 Tf ET
+28.35 430.87 m 566.93 430.87 l S
+BT /F4 8.00 Tf ET
+BT /F2 10.00 Tf ET
+28.35 430.87 m 566.93 430.87 l S
+BT /F4 8.00 Tf ET
+BT /F2 10.00 Tf ET
+28.35 430.87 m 566.93 430.87 l S
+28.35 119.06 m 28.35 62.36 l S 28.35 119.06 m 566.93 119.06 l S 566.93 119.06 m 566.93 62.36 l S 28.35 62.36 m 566.93 62.36 l S 
+BT /F1 10.00 Tf ET
+BT 31.19 108.97 Td (Strumenti utilizzati) Tj ET
+BT /F1 8.00 Tf ET
+BT 31.19 95.40 Td (costruttore) Tj ET
+BT 172.91 95.40 Td (modello) Tj ET
+BT 286.30 95.40 Td (matricola) Tj ET
+BT 428.03 95.40 Td (scadenza taratura) Tj ET
+BT /F2 8.00 Tf ET
+BT 172.91 81.22 Td (Kit con resistenza 47 Kohm < 50 Kohm come da norma) Tj ET
+BT 428.03 81.22 Td (31/12/2021) Tj ET
+BT 31.19 67.05 Td (FLUKE BIOMEDICAL CORP.) Tj ET
+BT 172.91 67.05 Td (ESA620) Tj ET
+BT 286.30 67.05 Td (9896035) Tj ET
+BT 428.03 67.05 Td (31/12/2021) Tj ET
+BT /F1 8.00 Tf ET
+BT 31.19 44.37 Td (data:) Tj ET
+BT /F2 8.00 Tf ET
+BT 59.53 44.37 Td (01/08/2021) Tj ET
+BT /F1 8.00 Tf ET
+BT 144.57 44.37 Td (Esecutore Verifica:) Tj ET
+BT /F2 8.00 Tf ET
+BT 229.61 44.37 Td (CAPO DI TUTTI I CAPI) Tj ET
+BT /F1 8.00 Tf ET
+BT 371.34 44.37 Td (firma:) Tj ET
+q 56.69 0 0 26.07 396.85 27.79 cm /I2 Do Q
+
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Contents 10 0 R>>
+endobj
+10 0 obj
+<</Length 3260>>
+stream
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+q 113.39 0 0 43.35 28.35 784.36 cm /I1 Do Q
+BT /F1 20.00 Tf ET
+BT 136.51 743.76 Td (SMART CLINIC PIEVE FISSIRAGA) Tj ET
+BT /F2 16.00 Tf ET
+BT 142.05 716.62 Td (REGISTRO DEI CONTROLLI - ANNO 2021) Tj ET
+BT /F2 10.00 Tf ET
+BT 171.21 690.07 Td (Dispositivi di allarme - Norma CEI 64-8/7, V2 sez. 710.62) Tj ET 171.21 689.07 252.86 -0.50 re f
+BT 31.19 661.72 Td (Struttura:) Tj ET
+BT /F1 10.00 Tf ET
+BT 87.87 661.72 Td (SMART CLINIC PIEVE FISSIRAGA) Tj ET
+BT 342.99 661.72 Td (10) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 647.55 Td (Reparto:) Tj ET
+BT /F1 10.00 Tf ET
+BT 87.87 647.55 Td (SMART CLINIC PIEVE FISSIRAGA) Tj ET
+BT 342.99 647.55 Td (SCPF) Tj ET
+BT 31.18 619.20 Td (Tipo) Tj ET
+BT 144.57 619.20 Td (ID) Tj ET
+BT 201.26 619.20 Td (Descrizione) Tj ET
+BT 428.03 619.20 Td (Caratteristiche) Tj ET
+BT 399.69 605.03 Td (Esito) Tj ET
+BT 456.38 605.03 Td (Data) Tj ET
+BT /F3 10.00 Tf ET
+BT 31.18 590.86 Td (Locali) Tj ET
+BT 87.87 590.86 Td (Descrizione) Tj ET
+BT 201.26 590.86 Td (Codice) Tj ET
+28.35 586.77 m 566.93 586.77 l S
+28.35 583.94 m 566.93 583.94 l S
+BT /F2 10.00 Tf ET
+BT /F4 8.00 Tf ET
+BT /F2 10.00 Tf ET
+28.35 572.60 m 566.93 572.60 l S
+BT /F4 8.00 Tf ET
+BT /F2 10.00 Tf ET
+28.35 572.60 m 566.93 572.60 l S
+BT 31.18 562.51 Td (TRASFORMATORE) Tj ET
+BT 144.57 562.51 Td (1) Tj ET
+BT 201.26 562.51 Td (TRASFORMATORE 1) Tj ET
+BT 428.03 562.51 Td (12 Volt) Tj ET
+BT 399.69 548.34 Td (Positivo) Tj ET
+BT 456.38 548.34 Td (01/04/2021) Tj ET
+BT /F4 8.00 Tf ET
+BT 87.87 534.77 Td (STUDIO ODONTOIATRICO 1) Tj ET
+BT 201.26 534.77 Td (32) Tj ET
+BT 87.87 520.59 Td (STUDIO ODONTOIATRICO 2) Tj ET
+BT 201.26 520.59 Td (33) Tj ET
+BT 87.87 506.42 Td (STUDIO ODONTOIATRICO 3) Tj ET
+BT 201.26 506.42 Td (34) Tj ET
+BT /F2 10.00 Tf ET
+28.35 501.73 m 566.93 501.73 l S
+BT 31.18 491.65 Td (TRASFORMATORE) Tj ET
+BT 144.57 491.65 Td (2) Tj ET
+BT 201.26 491.65 Td (TRASFORMATORE 2) Tj ET
+BT 428.03 491.65 Td (12 Volt) Tj ET
+BT 399.69 477.47 Td (Positivo) Tj ET
+BT 456.38 477.47 Td (01/04/2021) Tj ET
+BT /F4 8.00 Tf ET
+BT 87.87 463.90 Td (BOX 1) Tj ET
+BT 201.26 463.90 Td (09) Tj ET
+BT 87.87 449.73 Td (BOX 2) Tj ET
+BT 201.26 449.73 Td (10) Tj ET
+BT 87.87 435.55 Td (BOX 3) Tj ET
+BT 201.26 435.55 Td (11) Tj ET
+BT /F2 10.00 Tf ET
+28.35 430.87 m 566.93 430.87 l S
+28.35 119.06 m 28.35 62.36 l S 28.35 119.06 m 566.93 119.06 l S 566.93 119.06 m 566.93 62.36 l S 28.35 62.36 m 566.93 62.36 l S 
+BT /F1 10.00 Tf ET
+BT 31.19 108.97 Td (Strumenti utilizzati) Tj ET
+BT /F1 8.00 Tf ET
+BT 31.19 95.40 Td (costruttore) Tj ET
+BT 172.91 95.40 Td (modello) Tj ET
+BT 286.30 95.40 Td (matricola) Tj ET
+BT 428.03 95.40 Td (scadenza taratura) Tj ET
+BT /F2 8.00 Tf ET
+BT 172.91 81.22 Td (Kit con resistenza 47 Kohm < 50 Kohm come da norma) Tj ET
+BT 428.03 81.22 Td (31/12/2021) Tj ET
+BT 31.19 67.05 Td (FLUKE BIOMEDICAL CORP.) Tj ET
+BT 172.91 67.05 Td (ESA620) Tj ET
+BT 286.30 67.05 Td (9896035) Tj ET
+BT 428.03 67.05 Td (31/12/2021) Tj ET
+BT /F1 8.00 Tf ET
+BT 31.19 44.37 Td (data:) Tj ET
+BT /F2 8.00 Tf ET
+BT 59.53 44.37 Td (01/04/2021) Tj ET
+BT /F1 8.00 Tf ET
+BT 144.57 44.37 Td (Esecutore Verifica:) Tj ET
+BT /F2 8.00 Tf ET
+BT 229.61 44.37 Td (CAPO DI TUTTI I CAPI) Tj ET
+BT /F1 8.00 Tf ET
+BT 371.34 44.37 Td (firma:) Tj ET
+q 56.69 0 0 26.07 396.85 27.79 cm /I2 Do Q
+
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R ]
+/Count 4
+/MediaBox [0 0 595.28 841.89]
+>>
+endobj
+11 0 obj
+<</Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+12 0 obj
+<</Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+13 0 obj
+<</Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+14 0 obj
+<</Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+15 0 obj
+<</Type /XObject
+/Subtype /Image
+/Width 238
+/Height 91
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Filter /DCTDecode
+/Length 9094>>
+stream
+ÿØÿà JFIF  ` `  ÿáRExif  MM *    Q         Q       Q       JQ        Q    ü            3  f  ™  Ì  ÿ +  +3 +f +™ +Ì +ÿ U  U3 Uf U™ UÌ Uÿ €  €3 €f €™ €Ì €ÿ ª  ª3 ªf ª™ ªÌ ªÿ Õ  Õ3 Õf Õ™ ÕÌ Õÿ ÿ  ÿ3 ÿf ÿ™ ÿÌ ÿÿ3  3 33 f3 ™3 Ì3 ÿ3+ 3+33+f3+™3+Ì3+ÿ3U 3U33Uf3U™3UÌ3Uÿ3€ 3€33€f3€™3€Ì3€ÿ3ª 3ª33ªf3ª™3ªÌ3ªÿ3Õ 3Õ33Õf3Õ™3ÕÌ3Õÿ3ÿ 3ÿ33ÿf3ÿ™3ÿÌ3ÿÿf  f 3f ff ™f Ìf ÿf+ f+3f+ff+™f+Ìf+ÿfU fU3fUffU™fUÌfUÿf€ f€3f€ff€™f€Ìf€ÿfª fª3fªffª™fªÌfªÿfÕ fÕ3fÕffÕ™fÕÌfÕÿfÿ fÿ3fÿffÿ™fÿÌfÿÿ™  ™ 3™ f™ ™™ Ì™ ÿ™+ ™+3™+f™+™™+Ì™+ÿ™U ™U3™Uf™U™™UÌ™Uÿ™€ ™€3™€f™€™™€Ì™€ÿ™ª ™ª3™ªf™ª™™ªÌ™ªÿ™Õ ™Õ3™Õf™Õ™™ÕÌ™Õÿ™ÿ ™ÿ3™ÿf™ÿ™™ÿÌ™ÿÿÌ  Ì 3Ì fÌ ™Ì ÌÌ ÿÌ+ Ì+3Ì+fÌ+™Ì+ÌÌ+ÿÌU ÌU3ÌUfÌU™ÌUÌÌUÿÌ€ Ì€3Ì€fÌ€™Ì€ÌÌ€ÿÌª Ìª3ÌªfÌª™ÌªÌÌªÿÌÕ ÌÕ3ÌÕfÌÕ™ÌÕÌÌÕÿÌÿ Ìÿ3ÌÿfÌÿ™ÌÿÌÌÿÿÿ  ÿ 3ÿ fÿ ™ÿ Ìÿ ÿÿ+ ÿ+3ÿ+fÿ+™ÿ+Ìÿ+ÿÿU ÿU3ÿUfÿU™ÿUÌÿUÿÿ€ ÿ€3ÿ€fÿ€™ÿ€Ìÿ€ÿÿª ÿª3ÿªfÿª™ÿªÌÿªÿÿÕ ÿÕ3ÿÕfÿÕ™ÿÕÌÿÕÿÿÿ ÿÿ3ÿÿfÿÿ™ÿÿÌÿÿÿ            ÿÛ C 		
+
+
+
+	ÿÛ CÿÀ  [ î" ÿÄ           	
+ÿÄ µ   } !1AQa"q2‘¡#B±ÁRÑð$3br‚	
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚáâãäåæçèéêñòóôõö÷øùúÿÄ        	
+ÿÄ µ  w !1AQaq"2B‘¡±Á	#3RðbrÑ
+$4á%ñ&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz‚ƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚâãäåæçèéêòóôõö÷øùúÿÚ   ? ýü¢‚p+‹ñoíðÿ Àw­m­xãÂZMÂËä´7Z½¼R+†
+T©}Ãi#vGËÔàfœbäí)I%vv•óT_´/¾	~Øvþø©iº‡„<`xwP‡O[VŠC–Xä*ï’¸1–` –Fùs¶½ÿ Â^=Ðü}dnt-cKÖ­×¥°»Žå##%ŽG#Ö¸¯Ú³öÐh…“išÕäz;éò¥õž®Uwi’¡æÄ¼`‚@#­xCƒÆÔ¢ªà$ãZ›æQ»JvÞ[{ËDÞÒ³ºÔúÆàiW•Æ*Tj®W+^P¾Ó‹³w‹Ý/‰]4ô=.ŠÃøj$_ é+.¹‰¥ŽÙõX‚Ô2á	^qž	­ÀOøó^Õ9·äšmmÛÉÛM
+¤TdÔ]×u³óW³×Í\(®/Å?´g€<,Ñë>7ðŽ—5»<rCq«ÁªéÃ&ÂÛ‹‘´çŒf´¼ñwÂ¿Q[Ã~&ðïˆ£3gLÔ¡»2áå±ùrqž™­½œÒæqvôf|É»#¢¢€Oøó@'üy¬ù†V7‹¾"h Ž]\Ñ´8æVd{ûØí•ÂãqÈÈ=²=kŸð×í9ðçÆÉ—ãïêÅ …ÒßZ·‘•ÏA€ùç<zñŒÖ‘„šæIÛÑÿ ]IrŠÑ³¹¢€OøóQÏr¶–í,ÍQF¥ävl*É$žÃžk>dQ%ÅÍûFxßTÓì_Æþûn­p––vë«ÀÒÝLì#E–ff
+ êHH®Ðþ<ÕÊ.?käÄ¤žÁE|·ÿ )ý©¾!þÍ:ƒÿ …¾‡kg®Èöòê÷‰çÉi*©m«!@Ú7;ö¢ÈvœWÈ
+?à¥ÿ ¿g=oQñ‹|Gˆô]I”]Áâ}HZ¤MSlÃåÊ’
+ªÉN6«Éð™—`°YŠËgNnWIÙujéE^òÓ{-¶æØý)ðß0Çå/7…Jq…›JR³vvwoÝ_‰¯;&™úÁE~Oø“þ
+óâ/Šß†­àÏxsFó-RÊßA´¿‡P†å#q#LÑËÌË.KÃ±¼²ƒçÀôö-ý¥gý¦~MªjPéözþ—y%–¡ihíˆÈÃG&ÖÉQ"`70ê7:²¾4Âã1ï-•9Ó©«<yy’ê“÷“¶¶i;'ÙÛÏÍø'Ëã™*”êÓÑK’j\’}$ÕÖú]7Òöº=~Š	Çcþ4ŽÇükë¹
++›ñÆ?ü?žHµïøoD’WuÔ58mŠáIÀ€xÁ=sT<ûF|?øw¿‡üoájybEe«Á4ŽI aU‰!°H#†##šÓÙÏ—šÎÝìÉçís³¢€sØÿ …Q×üO¦øONûf«e¥Úd)žît†0Ç ÜÄš„îìŠØ½EC§êê¶0]ZÍÅµÔk,SDáã‘¬¬ äÁSÄž/Ò¼`—ZÆ¥§é6²8f½¹H#.A!w1v8ôŸ[~æhÑ\‡j/†¾-¿k]/â‚u¤,Åo­ÛHÅ¸hó`°\ŽüuWxET£(»I4üÕ¿2c$ö?>ÿ à¸Ÿµ—ÄÏðïàoÂ¹¯4ÿ |b½[}oqöI–™!X¢¸ÎaÜÌÆWQ½aGd;†+áüGðg@Ð-¤ñ×ˆ<iã_HŠ××±Þ>Þip	dE/åw!#ÜÌÊ·¿à¶±wÄÏŠú·ÃŸŒŸc¼Ô|}ðšëíiÖëÓ:¬±Ì’Ã¸IYY2w<R°Bwsÿ ÿ àä‡7M“ñ‡Áþ.øWâH6Ç|ZÊKë(\YY”*]Â‰»-æ@6	'nÿ ´Â¼jË©<£}\ù~;ßKë{ZÖ·™áÖúºÅIã|”oðÛ¯•ît?à~ýœ~>ø?Ç_
+~#xïÂ‹áíj×QÔt{©ÒêÓX·ÿ ylÅDlªÉ7o¦1¾ëÿ d„Íÿ Ñøß
+¶Ó7ƒïâÎNèŠíH99À$“÷[îŸHøûS|;ý©|3ý­ð÷Æ~ñe˜]Îl.–I`*<ØŽ$$oQ‘‚25æÿ ðVR¿ðí/Ž+$ž\OàíAî*Hhˆ õ 8l’>Wû§ÅŽ3_EbîåEj¬þ%¾ÍüúhŽÿ cFžn…¬Ózm·N‡ÿ %Eø&'ÃéÄeÌºŒ„’[qû|àqŒqü%‡xœòí!¨ü`ÿ ‚‹ÁT<iû>¯ÅÍOÀ>ðüRÜÇk¦Ùm†{xà·ß¢)Qî%i8óe
+ƒ%cYkëø!3nÿ ‚b|?,ª’µ/0Û†û}Çû#ÿ BMÜm_œÿ eeÇüyñr@¬3¢]ÆçËb¸+fT7ü¤’_åÀT¸Ø¡.LÇY%ÍQÅÙ;5$“WZ;u±ÃSýÛMí'ìÞªÛ§„àÙß¶V
+|Iâ_ˆþ%Ôˆ%ÉÔ¡³Y ÎÈâá¹ÎwpÃrínk‡ý£ÿ àÞõø-¡\xçöuñç4?øv7¿‚ÂîðK=ñFi|»{˜ÑdY@g¬¢XË•ÜÞ©Ùàã¯½äÓâŒÉMIÕrK£³Ý±×,§Õ”}Öÿ yòOü¿þ
+û|þË­}âgµox>åt}à¶kd¾&5’Á FeŒüè8YRP¨QNÿ ‚¸ÿ ÁD.?aú|>·Qø•ã«Ÿì¿Ú˜>Óä¹Àk†‡p2Ü¡S?3²Ž@ ü·ÿ ×Í$>1øõkÚÇ©[¸0#Ün¯Æì*…ø=~þ.ßícÿ »þø+á]Cì·:?‚ü)g¬ÃnÇr¼òÝjH¾>ÃjÀq…É ‚+Ô«•ááUƒîàœÜ}"¥eåwkvëÔå†*´°1q~ój7õv¹Càoüù}ûGiÖþ:ý¨<ãøÓ]ß\éV—©æØ±ùqÜ]:1i£%ºÅodBê¡ßÓ<Oÿ ÛþÏzžžŸÙ7;Ðu+to"î]gÚø}»£–6R ÈÇjíÈ8ÈÂãô ô ñÏ'Ú¼šœM™9^5Whè—Ëþ‘Êðª<®	ù½_Þ|ûû~Èz‡ìû5ëÞk<ŽßP¼Õ4Ëí[‰¬íÚÄv¸g`3Æ_˜8™ß±_ìÅñOþkiâï|Jøûâû-'Ã:Ð²}.ÞÝ$Œ™ û”ã·v:Œ4Ä®[z°ÝûAãY^Õ™£Yl¦%ä<`óíÍ~mÁ²¯»à·Å¯ŸvßÛ¯XZÀ'åÏ\`uÎ9Éô2ìuU…Åc´ö·½Ë´ÚvÒÊþK±Ï‰£^ŽìÚZ]ôµ¾ïëÏÑ¾ÿ Á»¿~øûAñJê=ÕµÏê–úÅ»Ýj‘-»\A0š-Ð¤*¬‹ ß±²	fÎC^¡ûuþÝ:ßìáã­@ð­Ž‹¨jl÷ú˜ÔD¥#„å#Ë ƒ»/“÷‚m'#ê,ó_ž?ðPŸÙóÇsü^ñWÄÍü'„ÅyÊÌmà‚$;å‹ïGó†rà‘ˆÔ1Q·’øÄYÂË=¶Sœù’n)·üMè–‰;ÙYö?NðË$ÊkfÞË¢©ò»FM%)6¢’Õ6õm%®—GþØß¶Ž¾;É§Í«XZêÄ×±i>ðÖ™¼C.¥rËHIùØ’@gÜ>BÃnÖÁû7ö4ÿ ‚?|=ø	§Zø‹âŽ›ñKâ•Â¤×ºÖ¯j³ÙéÒDu³.Þ?u‚ùŒFælíUøÛöbÓ-µø)OÀ«I—ì¶Wš½ÔÊÈ²]EdÊ„…¾rw(<–ãîßø)'í=ñƒöIðß†<cðóáÅ§Äoé—3Kã[h§‘u;[AîÞÝ”6K¶×Ú£%v‚Iá^¬²šy”eÍ‰Åó¹MËÞåŒÝ8Óæ{+ÁÉÙÚNI;¨ÆÛx¥™EfrÊ)Ç—…äQ‚^ï4¢¦çn²´ÒMÝ¤›Væ•ý?âgìkð›ã„n4/|7ðV±¥ÜÍÚDkáÑ•C#Œœ2Ã<üëý¦¿gMGþ	é®Úx“ÀÞ.×uÏƒzôÿ Ø‡RMY§¿ð=Û¹ÞâxÏ™q§ÊX¨g&KyÌÌ%,¾½ñ›þ¦þÓ¿<áOÙ¶æmcãÆI®4>ÚXJ?‚V ¿n½ÔïD°+ VGÁBÊ¬G¶ø'öð¯ÀOø'N¿ðvÊ;RßPÑoæÕï®§/s­jw
+òÜ^K+rd’s»qèŽÕöÙçÒÇà8½¦ýÔ×½ªö‘oXJ/M>4œdœOáò\ò¶±y}¯¯òÉhù$¶iõ¾«F¬ìËðNOÚ/RøÝð®ûG×k­sÁ’Åe5ÿ –wðº_—ÍP¬Ž ò«íQ"ŠùgþñÏâ÷ˆ?mo„¿ üñ
+ëáÞ‡ñ*Î¹¼²´"áîe¸¸\É:âO%c·ÿ U!rÄ;„loø#—íc†¼£ø?]¶»‘¼^ö·67‘Æ$avÐdY°IXØ[ÆÈç's°8ù@äÿ à¦(­ÿ Úý–IÛ¸&ŸÆß™Û5€IÆù@g<2øþ×u(}_5R®U„®“´¡Ì£{èì’i½íïokÄÌ$hã^#MÓ£_’pìã4›jÖÑ¶î¶[^ÊçEàÏø6Ÿá•ÑûgÄ/ˆŸ|q­yþÚãš8gÉ,¬¥c‘Én1Æø6á~§áiÃ¿xãÁþ!…	´šúñuRØ'k|‹4jÍ´–ŠU+€@à
+ý'Ï4‘_Yþ³f|ÜÞÙúio»oÀùìœ%­È¿_¿sóËþ½ûoü@ñOÄ_~Ï¯.¯¾!|3vû-íä†{«¸#•¢–9'87”ñÌÃt±ÊÊÄô?ðq¥¬wŸðLM~9¼Ÿ%µ­;q•ª7©°ëÛÎW‡—ü ÿ @ÿ ƒ˜þ&a’Ò;¿AæF2©!þË³%þ_•‹mV<ç7 q^©ÿ 2§ü']f2*¦¹¥±ÚUq‹€rK´/Þ-Œ¨]Ù\nÃ§áªÒ\¾ÓÙÎËdä“vùëÿ  áR“ÀV„ù9•úé·õúžõû"øÆËáçü£á¿ˆ5eÓt/‡ºv¡;d.È!Óãà°A€‹Ál I?xþlþÉŸ²GŒ?à¼>7ñÆ/Œž0×4¯‡¶zÁ²Ñ´1¼¼¬{&Ž(Cå`Ž%•wI°Í,‡,É°¥~“þÉ~µø‰ÿ èøqáÝMe[sáæ¦ÝIGK§Gm,¹kãÔþl~Í¿´Å¯ø ^±â‡?¾j¾,øKy¨½þ™â-!D®U#2Ã.<¦ó#Ž6{iZQÖFO1XRÊ½¥ñKooÌ¹v½¹ùo×mºmkŽåµ7ˆþµí}-{tßËõúKÄ?ðmŸìó{áÏ²i7>?Ðï!_Ü]Å­ùÛFñ®c‘
+íÏ	°`ô§ì	û$ê¿±GÁê><Ö¾ ÚÛê×zeö¨\ZZH­±Ø|ŒîmS»!T“Ÿ?ýÿ àµ¿³Ÿí©Úéºmü9¬]³,V$´Ç|*±+þáÎ !,GÊ*OÕ¨âE¤2°È#½xÙ–74pú¾=Ê×½¤µù7¯Üìwa¨á9½¥_mÞ-q¿ÿ güzÒÚÏÆžðï‰¡` :…ŒsI3‚ŽFä#'• ò}M|Ïÿ ýºþ1þÄßt=KÃ¿	oþ#|.¸ÒKêw:mµÄ—7ŸhDT/
+JË¹ÑíéÉ'Ètø9óà›iñjøGâ¨ž$¶H¬¤T|üÊ®p
+U²£÷Hba²\ÆpŽ#ÓÙÅ«¯]nŸè*Ù†2tê»>ÍWGÿ ÁS¿a›_ø$Ö§ þÑ? µ]SÂ’YêâÞ÷E3´öÅš9fÛ—$›i)#xÜ°.õÃ`¹ÿ à¡^9‡âoü7âwˆm÷y ðÅäjÑ´FA5¾à¡[Ÿ›v Ãg#å“;[à¯Žþ/Á}üYáßøÀ:Ç‚¾éÚœWú‡ˆn·ùjËç<¤,o*!so*ÌKç Ðø)?‚í|ÿ £ø±áÝ?&ÇHðÖ›gÁþª;o-jàr  G?u¾é÷1Ê¬eƒ¥Œw¯k­ÚãÊ¤ÖïGm[KÔà¢”•yQV¦ã§fìîÒí·©Ëÿ ÁGüjïáËàþñõÜWýgüL.s›§]ÏÓ¸Ú¿8þÊËæÁÇ_%ÛæmÑ®×~ÝøÂÚnÚý:cÌéµ>áú;þDË'üûáÜ‹Ñ‰_Qp&B²`ßÜ»*	lc’XöÝÆÕùÓö\³Ÿþ"8ø³<–·Mè×.ÙÚ.ÝF$ØUOÞ,3†ehŽ¸ÌÉùTÿ Ò×õ¹RÖŽÖ?‘ú’hÉÇ¯4ÿ €£<×Åu=Ãò—þ³çâÇÌ6íº„‘’?Òïø`ÀãÈÎúÀ7.÷í¿©Ið#þøãMJFµÐücá[m	.
+îŒÉÖ 	c¿:…»ª2†'þ½µ¸´ø‰ñçíó[ïÔ!òÌ¶òF$îû;Ó2¡°@Î>ø ¯Ö_ðVOø'„?ðP¿Ùæ*Æx¬üaá{ƒ©x~âW1Åç|¡âf®õ\«nÙyÄR£žÔm!8¨·ÙJWù;kúê|þŒç€³Z¦š^Žöþ¬}IÆïö»QÎ?Jü£øMÿ Àø•ûXGàÚ‹áwŠ\ðøû)ñª$m¨F˜#“‹iØ©Í¡™c'mwüÓð‡Q¶ò|3àŸˆ~!ÖdmØ¤6¹–BÅ&Ydå†2#9nx¯|-™sòÓ§Î»Å§»Þÿ ðNøæØn[ÊV}žÿ qú!ãvÛà½`å—Sr¼°ýÙéÓŸÆ¿7àÙvoøRß•˜¾&· åÙÉ8ätÀçäý]ûþÓÞ2ý¯ÿ eŸxËÆ?õ†ó]]ß[éZN ²­ÅÅ‚Â¦)ÜHªÇ{3€B€ÁA gò§ü3g5·Àÿ ‹m½Ý¾ßEÙí¤‡¶©¸ ãž[9^9éÜï‡£*v2”þ+Á>½_TEJŠxšŽÍK¿‘úg÷GzóoÚ‹ã¶ƒðCáv¡6«4†¥o-®›¥ãÌ›S£}±¬`‚Tàî9  yé ú½í^ûqþÏSü_ðnŸ®hÖ+yâ_
+»ËAA’òÙðer@Ý¹"‘wdnˆq“šüë‰kã¨åUêå°Sª¢ùbúú.®Û.¯CëøvŽ¦eFù8ÓrÕ­=5è›²o¢w?1<Mm¯|"Ô<#ñÃšlºŸˆ>êpk¶Ö±Ìáµ{,ËDsÄžl;È9|lb6]¿_þüsðÇí'ðAñÇƒõ8uoø’Õn¬îŒàõFÂêÀ«)åYHí_œ°ßYEgoýš§mèhâK+V’áÂîá",Ë»•ÅH «`ã€ð¯ã¿Ù7â±âƒzô>þÔºó¼AáfÞK'Q»,¦IL@™-g")C´xûŽÄ’wWâ¾ø…Ã`ÿ ±³‡ìé©7J«MÆ-üTçdÚMûÑi;JSç²iÇõ¸7™â¿µrèóTjÓ†‰ÊÛI7eÌ–’õ\¶Õ4ÿ K~þÃ
+¾|gñGÄ	x;KÑ¼UâüBò<–až"Çs 1=+?þ
+ûHi²÷ì™âÏ_]G¡}lÚ.‰mæ—PÔî”ÅmA~frí»ÈTcÀÛþ/ñ·û7ìÃàÏÿ ´£!Þ÷þâÖÏåù¿Ä™8Èü¤ð<Ç>/ñÇíñ2ÏÅÿ ¼M‰5íd·Ò´½>1áÿ 0 í'–¸p¸3I–	ÇÊ¥ƒ~ÑqþM€¥õÊØ¨Wš^ì!5RRkH§(¶¡®äÓQ¿,e+Eþ{‘øwf5Ö8iÑ‡Úœââ£}ÚR³“ì¢šov–§³Á1ÿ e_jš§õ«{X¼?à»›hõ)¦qŸp±‡qs¸©“.ÇàÛYÿ /;¿à»?²ÊnQ¹tó‚7tºÔO“Ô;ò@Ë/Ô¿ðJ(õˆÿ g]E¯,!³Ðî5Ë›­PIy»d–NGÍœÒ,oüH£¨›åïø)m­Ãÿ ÁueyÖîHvÙ7˜¶²IËu~.¢•­ó`ã¡2õx7ƒ<$±Òrö˜ˆÔ©6Õ½éEì’^ïTõmjžÆ,c§W1úšICãN·~ì^—m¿yuÚÎéÚÇéþî;õÇJ1ÍâŽ­ïô¯[ÉŸ,~bü,IüÍñ¶È¬Þ·Dx•i·æÇ8ÈãyÆAÚ»¹õ?ø8žAü?Z}Û]uý(¡*Sö–$ÕËxÊ€p	#Ë~ió¿üÁñ"e³ºÇáØKÎ`vþAv€)“iQ÷ÁU2t'
+¼çÔÿ àâ}ãþ	•¯4q\M2kzc"Áng—>xûª?‹Ðô¯ÞlÚþÓÀ¯îRü‘àò¿ªb÷§ýZuØú/ö‰aý‡>¬qÇÿ Â¤ðA³ˆîû«ÉêxêO'©õkËHu+I­î"ŠâÞd1ËŠ$R0Uà‚ õ¼#öwºñ'†à˜¾ŸÂÚlsøºÇá­¬º=”‘ü³ß.š¦Ù[ËûÒ½OÍüUñ¯„ÿ àâm[à´Z/íðSÅÞñ•¸ûlÖ‘˜#yDÛlWB0Ã~1I&ç Þ7öN+^¬ðË›–Nêêû½UÝß®§¡õÊT!hì­½´ü/céïÚ·þ×ðö«ð®£ksàû	ëWiû_Ãñ­œÖ²Ø­å(òd\`2:Ã ýãŸÿ ‚|fñ„¾(üfý¼aªÜø~Ý¥Æzä2Am%Äð¼*Ù9_2"è ªÀM`üBÿ ƒ–|3âí2M'àïÃx³Æ‚Hla¿$%çk,ÞifU"#w,}3þ«ûxûàõ×ÄOŒŸ-ä³øñzh%–Êáv]Ø[#Ë3,ê•]æžF	’QB‚s‘^½J8¼>YVžg¢vöjM9s&“¶­¥dïÓnúðÆ¥
+˜¸Ë¾¼Í--Ñ>—¿ÍzŠÍºðn{7™6“¦Í! n{TfÀ ’; ÐV•ñ©´{žCbE…4UU@ U
+;qNÉÇNýè¢– 2Úã‰R8ãUpª ` ;bŸ»?ž(Ç4Q­îÈ¼÷£<ÑE ï@úQ´mÛ—¦(¥nàC{coªÚ47Ãso&7G"Fî2Ö«é¾Ótk†šÏO±µ•†ÒðÀ±±™¯cš*®ífnŠ6à¼{Ð*u Ý€sÆ;šPFhÔÃŸ
+<7áë^ Ó4[-kÄ,¨ÞE$º* =ºqŒžNO5ò÷üïá%çˆußëz'†uBæ[yì5kË'˜=¾øš›aÏÊûŠØd©p~Á¢¾ˆ8oše³Ë‡4ï´|Ü×¶×n÷{êõ¹ô9ârÜÆÇ(«Y·ªååµû%·Ee¦‡äïÂ_ÙïÄß>$i:<ÞñZmõä#Rº[Gk€Ò1;p›
+Jò¡ÉNþ„xÿ öøeñÃÚ^›qá{>-T’Þ]>%¶˜¨9hÝÔeÑù;·œœ×­Q^ø{—å¸z”+Ú·=®åk.‰k×W®þˆú$ñ0Í+Ò­BôU;ÙFOV÷mé~ËK%ón¾“¥[hZ]µœÛYÙÄ°Ákµ"E *è ¬ë÷½(¢¾ñFÊÑÑ)97)jØw ö?á@¢‹nÀÉãëFÑéß4Q¨z†ûN·Õ hn­á¸…†
+JÕ¹Ž Â¦#"Š¥tôåM/@±Ñ7ýŠÊÒÏÌÆÿ "v:gœUº(£­À(¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š (¢Š ÿÙ
+endstream
+endobj
+16 0 obj
+<</Type /XObject
+/Subtype /Image
+/Width 87
+/Height 40
+/ColorSpace /DeviceRGB
+/BitsPerComponent 8
+/Filter /DCTDecode
+/Length 8385>>
+stream
+ÿØÿà JFIF      ÿâìICC_PROFILE   Ülcms0  mntrRGB XYZ Ú    : acspAPPL    lcms                  öÖ     Ó-lcms                                               dmnd     jdesc  t   hdmdd  Ü   hwtpt  D   rXYZ  X   bXYZ  l   gXYZ  €   rTRC  ”  gTRC  
+   bTRC  ¬  chrm  ¸   $desc       (lcms internal)                                                                                 desc       sRGB built-in                                                                               desc       sRGB built-in                                                                               XYZ       ó=    ˜XYZ       o”  8î  XYZ       $  ƒ  ¶¾XYZ       b¥  ·  Þcurv           
+     # ( - 2 7 ; @ E J O T Y ^ c h m r w |  † ‹  • š Ÿ ¤ © ® ² · ¼ Á Æ Ë Ð Õ Û à å ë ð ö û%+28>ELRY`gnu|ƒ‹’š¡©±¹ÁÉÑÙáéòú&/8AKT]gqz„Ž˜¢¬¶ÁËÕàëõ !-8COZfr~Š–¢®ºÇÓàìù -;HUcq~Œš¨¶ÄÓáðþ+:IXgw†–¦µÅÕåö'7HYj{Œ¯ÀÑãõ+=Oat†™¬¿Òåø2FZn‚–ª¾Òçû		%	:	O	d	y		¤	º	Ï	å	û
+
+'
+=
+T
+j
+
+˜
+®
+Å
+Ü
+ó"9Qi€˜°Èáù*C\uŽ§ÀÙó&@ZtŽ©ÃÞø.Id›¶Òî	%A^z–³Ïì	&Ca~›¹×õ1OmŒªÉè&Ed„£Ãã#Ccƒ¤Åå'Ij‹­Îð4Vx›½à&Il²ÖúAe‰®Ò÷@eŠ¯Õú Ek‘·Ý*QwžÅì;cŠ²Ú*R{£ÌõGp™Ãì@j”¾é>i”¿ê  A l ˜ Ä ð!!H!u!¡!Î!û"'"U"‚"¯"Ý#
+#8#f#”#Â#ð$$M$|$«$Ú%	%8%h%—%Ç%÷&'&W&‡&·&è''I'z'«'Ü((?(q(¢(Ô))8)k))Ð**5*h*›*Ï++6+i++Ñ,,9,n,¢,×--A-v-«-á..L.‚.·.î/$/Z/‘/Ç/þ050l0¤0Û11J1‚1º1ò2*2c2›2Ô33F33¸3ñ4+4e4ž4Ø55M5‡5Â5ý676r6®6é7$7`7œ7×88P8Œ8È99B99¼9ù:6:t:²:ï;-;k;ª;è<'<e<¤<ã="=a=¡=à> >`> >à?!?a?¢?â@#@d@¦@çA)AjA¬AîB0BrBµB÷C:C}CÀDDGDŠDÎEEUEšEÞF"FgF«FðG5G{GÀHHKH‘H×IIcI©IðJ7J}JÄKKSKšKâL*LrLºMMJM“MÜN%NnN·O OIO“OÝP'PqP»QQPQ›QæR1R|RÇSS_SªSöTBTTÛU(UuUÂVV\V©V÷WDW’WàX/X}XËYYiY¸ZZVZ¦Zõ[E[•[å\5\†\Ö]']x]É^^l^½__a_³``W`ª`üaOa¢aõbIbœbðcCc—cëd@d”dée=e’eçf=f’fèg=g“géh?h–hìiCišiñjHjŸj÷kOk§kÿlWl¯mm`m¹nnknÄooxoÑp+p†pàq:q•qðrKr¦ss]s¸ttptÌu(u…uáv>v›vøwVw³xxnxÌy*y‰yçzFz¥{{c{Â|!||á}A}¡~~b~Â#„å€G€¨
+kÍ‚0‚’‚ôƒWƒº„„€„ã…G…«††r†×‡;‡ŸˆˆiˆÎ‰3‰™‰þŠdŠÊ‹0‹–‹üŒcŒÊ1˜ÿŽfŽÎ6žnÖ‘?‘¨’’z’ã“M“¶” ”Š”ô•_•É–4–Ÿ—
+—u—à˜L˜¸™$™™üšhšÕ›B›¯œœ‰œ÷dÒž@ž®ŸŸ‹Ÿú i Ø¡G¡¶¢&¢–££v£æ¤V¤Ç¥8¥©¦¦‹¦ý§n§à¨R¨Ä©7©©ªª««u«é¬\¬Ð­D­¸®-®¡¯¯‹° °u°ê±`±Ö²K²Â³8³®´%´œµµŠ¶¶y¶ð·h·à¸Y¸Ñ¹J¹Âº;ºµ».»§¼!¼›½½¾
+¾„¾ÿ¿z¿õÀpÀìÁgÁãÂ_ÂÛÃXÃÔÄQÄÎÅKÅÈÆFÆÃÇAÇ¿È=È¼É:É¹Ê8Ê·Ë6Ë¶Ì5ÌµÍ5ÍµÎ6Î¶Ï7Ï¸Ð9ÐºÑ<Ñ¾Ò?ÒÁÓDÓÆÔIÔËÕNÕÑÖUÖØ×\×àØdØèÙlÙñÚvÚûÛ€ÜÜŠÝÝ–ÞÞ¢ß)ß¯à6à½áDáÌâSâÛãcãëäsäüå„ææ–çç©è2è¼éFéÐê[êåëpëûì†ííœî(î´ï@ïÌðXðåñrñÿòŒóó§ô4ôÂõPõÞömöû÷Šøø¨ù8ùÇúWúçûwüü˜ý)ýºþKþÜÿmÿÿcurv           
+     # ( - 2 7 ; @ E J O T Y ^ c h m r w |  † ‹  • š Ÿ ¤ © ® ² · ¼ Á Æ Ë Ð Õ Û à å ë ð ö û%+28>ELRY`gnu|ƒ‹’š¡©±¹ÁÉÑÙáéòú&/8AKT]gqz„Ž˜¢¬¶ÁËÕàëõ !-8COZfr~Š–¢®ºÇÓàìù -;HUcq~Œš¨¶ÄÓáðþ+:IXgw†–¦µÅÕåö'7HYj{Œ¯ÀÑãõ+=Oat†™¬¿Òåø2FZn‚–ª¾Òçû		%	:	O	d	y		¤	º	Ï	å	û
+
+'
+=
+T
+j
+
+˜
+®
+Å
+Ü
+ó"9Qi€˜°Èáù*C\uŽ§ÀÙó&@ZtŽ©ÃÞø.Id›¶Òî	%A^z–³Ïì	&Ca~›¹×õ1OmŒªÉè&Ed„£Ãã#Ccƒ¤Åå'Ij‹­Îð4Vx›½à&Il²ÖúAe‰®Ò÷@eŠ¯Õú Ek‘·Ý*QwžÅì;cŠ²Ú*R{£ÌõGp™Ãì@j”¾é>i”¿ê  A l ˜ Ä ð!!H!u!¡!Î!û"'"U"‚"¯"Ý#
+#8#f#”#Â#ð$$M$|$«$Ú%	%8%h%—%Ç%÷&'&W&‡&·&è''I'z'«'Ü((?(q(¢(Ô))8)k))Ð**5*h*›*Ï++6+i++Ñ,,9,n,¢,×--A-v-«-á..L.‚.·.î/$/Z/‘/Ç/þ050l0¤0Û11J1‚1º1ò2*2c2›2Ô33F33¸3ñ4+4e4ž4Ø55M5‡5Â5ý676r6®6é7$7`7œ7×88P8Œ8È99B99¼9ù:6:t:²:ï;-;k;ª;è<'<e<¤<ã="=a=¡=à> >`> >à?!?a?¢?â@#@d@¦@çA)AjA¬AîB0BrBµB÷C:C}CÀDDGDŠDÎEEUEšEÞF"FgF«FðG5G{GÀHHKH‘H×IIcI©IðJ7J}JÄKKSKšKâL*LrLºMMJM“MÜN%NnN·O OIO“OÝP'PqP»QQPQ›QæR1R|RÇSS_SªSöTBTTÛU(UuUÂVV\V©V÷WDW’WàX/X}XËYYiY¸ZZVZ¦Zõ[E[•[å\5\†\Ö]']x]É^^l^½__a_³``W`ª`üaOa¢aõbIbœbðcCc—cëd@d”dée=e’eçf=f’fèg=g“géh?h–hìiCišiñjHjŸj÷kOk§kÿlWl¯mm`m¹nnknÄooxoÑp+p†pàq:q•qðrKr¦ss]s¸ttptÌu(u…uáv>v›vøwVw³xxnxÌy*y‰yçzFz¥{{c{Â|!||á}A}¡~~b~Â#„å€G€¨
+kÍ‚0‚’‚ôƒWƒº„„€„ã…G…«††r†×‡;‡ŸˆˆiˆÎ‰3‰™‰þŠdŠÊ‹0‹–‹üŒcŒÊ1˜ÿŽfŽÎ6žnÖ‘?‘¨’’z’ã“M“¶” ”Š”ô•_•É–4–Ÿ—
+—u—à˜L˜¸™$™™üšhšÕ›B›¯œœ‰œ÷dÒž@ž®ŸŸ‹Ÿú i Ø¡G¡¶¢&¢–££v£æ¤V¤Ç¥8¥©¦¦‹¦ý§n§à¨R¨Ä©7©©ªª««u«é¬\¬Ð­D­¸®-®¡¯¯‹° °u°ê±`±Ö²K²Â³8³®´%´œµµŠ¶¶y¶ð·h·à¸Y¸Ñ¹J¹Âº;ºµ».»§¼!¼›½½¾
+¾„¾ÿ¿z¿õÀpÀìÁgÁãÂ_ÂÛÃXÃÔÄQÄÎÅKÅÈÆFÆÃÇAÇ¿È=È¼É:É¹Ê8Ê·Ë6Ë¶Ì5ÌµÍ5ÍµÎ6Î¶Ï7Ï¸Ð9ÐºÑ<Ñ¾Ò?ÒÁÓDÓÆÔIÔËÕNÕÑÖUÖØ×\×àØdØèÙlÙñÚvÚûÛ€ÜÜŠÝÝ–ÞÞ¢ß)ß¯à6à½áDáÌâSâÛãcãëäsäüå„ææ–çç©è2è¼éFéÐê[êåëpëûì†ííœî(î´ï@ïÌðXðåñrñÿòŒóó§ô4ôÂõPõÞömöû÷Šøø¨ù8ùÇúWúçûwüü˜ý)ýºþKþÜÿmÿÿcurv           
+     # ( - 2 7 ; @ E J O T Y ^ c h m r w |  † ‹  • š Ÿ ¤ © ® ² · ¼ Á Æ Ë Ð Õ Û à å ë ð ö û%+28>ELRY`gnu|ƒ‹’š¡©±¹ÁÉÑÙáéòú&/8AKT]gqz„Ž˜¢¬¶ÁËÕàëõ !-8COZfr~Š–¢®ºÇÓàìù -;HUcq~Œš¨¶ÄÓáðþ+:IXgw†–¦µÅÕåö'7HYj{Œ¯ÀÑãõ+=Oat†™¬¿Òåø2FZn‚–ª¾Òçû		%	:	O	d	y		¤	º	Ï	å	û
+
+'
+=
+T
+j
+
+˜
+®
+Å
+Ü
+ó"9Qi€˜°Èáù*C\uŽ§ÀÙó&@ZtŽ©ÃÞø.Id›¶Òî	%A^z–³Ïì	&Ca~›¹×õ1OmŒªÉè&Ed„£Ãã#Ccƒ¤Åå'Ij‹­Îð4Vx›½à&Il²ÖúAe‰®Ò÷@eŠ¯Õú Ek‘·Ý*QwžÅì;cŠ²Ú*R{£ÌõGp™Ãì@j”¾é>i”¿ê  A l ˜ Ä ð!!H!u!¡!Î!û"'"U"‚"¯"Ý#
+#8#f#”#Â#ð$$M$|$«$Ú%	%8%h%—%Ç%÷&'&W&‡&·&è''I'z'«'Ü((?(q(¢(Ô))8)k))Ð**5*h*›*Ï++6+i++Ñ,,9,n,¢,×--A-v-«-á..L.‚.·.î/$/Z/‘/Ç/þ050l0¤0Û11J1‚1º1ò2*2c2›2Ô33F33¸3ñ4+4e4ž4Ø55M5‡5Â5ý676r6®6é7$7`7œ7×88P8Œ8È99B99¼9ù:6:t:²:ï;-;k;ª;è<'<e<¤<ã="=a=¡=à> >`> >à?!?a?¢?â@#@d@¦@çA)AjA¬AîB0BrBµB÷C:C}CÀDDGDŠDÎEEUEšEÞF"FgF«FðG5G{GÀHHKH‘H×IIcI©IðJ7J}JÄKKSKšKâL*LrLºMMJM“MÜN%NnN·O OIO“OÝP'PqP»QQPQ›QæR1R|RÇSS_SªSöTBTTÛU(UuUÂVV\V©V÷WDW’WàX/X}XËYYiY¸ZZVZ¦Zõ[E[•[å\5\†\Ö]']x]É^^l^½__a_³``W`ª`üaOa¢aõbIbœbðcCc—cëd@d”dée=e’eçf=f’fèg=g“géh?h–hìiCišiñjHjŸj÷kOk§kÿlWl¯mm`m¹nnknÄooxoÑp+p†pàq:q•qðrKr¦ss]s¸ttptÌu(u…uáv>v›vøwVw³xxnxÌy*y‰yçzFz¥{{c{Â|!||á}A}¡~~b~Â#„å€G€¨
+kÍ‚0‚’‚ôƒWƒº„„€„ã…G…«††r†×‡;‡ŸˆˆiˆÎ‰3‰™‰þŠdŠÊ‹0‹–‹üŒcŒÊ1˜ÿŽfŽÎ6žnÖ‘?‘¨’’z’ã“M“¶” ”Š”ô•_•É–4–Ÿ—
+—u—à˜L˜¸™$™™üšhšÕ›B›¯œœ‰œ÷dÒž@ž®ŸŸ‹Ÿú i Ø¡G¡¶¢&¢–££v£æ¤V¤Ç¥8¥©¦¦‹¦ý§n§à¨R¨Ä©7©©ªª««u«é¬\¬Ð­D­¸®-®¡¯¯‹° °u°ê±`±Ö²K²Â³8³®´%´œµµŠ¶¶y¶ð·h·à¸Y¸Ñ¹J¹Âº;ºµ».»§¼!¼›½½¾
+¾„¾ÿ¿z¿õÀpÀìÁgÁãÂ_ÂÛÃXÃÔÄQÄÎÅKÅÈÆFÆÃÇAÇ¿È=È¼É:É¹Ê8Ê·Ë6Ë¶Ì5ÌµÍ5ÍµÎ6Î¶Ï7Ï¸Ð9ÐºÑ<Ñ¾Ò?ÒÁÓDÓÆÔIÔËÕNÕÑÖUÖØ×\×àØdØèÙlÙñÚvÚûÛ€ÜÜŠÝÝ–ÞÞ¢ß)ß¯à6à½áDáÌâSâÛãcãëäsäüå„ææ–çç©è2è¼éFéÐê[êåëpëûì†ííœî(î´ï@ïÌðXðåñrñÿòŒóó§ô4ôÂõPõÞömöû÷Šøø¨ù8ùÇúWúçûwüü˜ý)ýºþKþÜÿmÿÿchrm         £×  T{  LÍ  ™š  &f  \ÿÛ C 
+
+
+		
+%# , #&')*)-0-(0%()(ÿÛ C
+
+
+
+(((((((((((((((((((((((((((((((((((((((((((((((((((ÿÀ  ( W" ÿÄ           	
+ÿÄ µ   } !1AQa"q2‘¡#B±ÁRÑð$3br‚	
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚáâãäåæçèéêñòóôõö÷øùúÿÄ        	
+ÿÄ µ  w !1AQaq"2B‘¡±Á	#3RðbrÑ
+$4á%ñ&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz‚ƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚâãäåæçèéêòóôõö÷øùúÿÚ   ? ú¢ ¿‘á±¸’/õ‹ïÎ8©êÑº§ø™Wÿ Öâ{ÖQ¾Œ"†îö[ˆ&es¹Ä‡±oBzg¡ã¸b³<K¦c@¾°c’hˆŽAÖ9(ãÝX>”¾¿}SÃÚmü«²[‹t’Dþë‡àr*šæ0-‰5mZÏJ‡Ì½‘•v³á#gmª2Í…à§ Èª·‰m,ôNÙïÊEtAG±@$sŠlj'ñµòË†X´ØBÏI.ïÏËOÊ¼ë^k­?ÂZVˆ–s\Ï¡VW$¡ ›{£ž …ºðWH5ÑFŒfÒ~_s"RkcÒ.üCú	I¬X$»±åâ2à‘ß8ÇÔÖ½ÝÄV–³\Ü¸ŽQ¤‘ÏEP2Oå^w©Þ»ê>”íu–N>ï˜öñþóC]?ÄiL?üHê2ßÙ×G«Øù‘S**ðK¯ùIêli—öÚŒ7–2‰måG ÌA‚"­W3àÄû=Ïˆl‚•[}CäÏR=‹3~9®š±©YlT]ÐQE
+†r<èÕ‰ü©«:w—û~Í<²`6ó1~Á·Gùüª¢®ÄËêÊÙÁÉzWðÿ UC£jÉ?•¶—¨]ÛÜ8T™ñŸO—mt:´7¨VïJòÞá8x%;VeôÝü,;ØõÈÃðÿ … SM¨Á,3Þ\Mu=°›äËÈì»‚¬À8Æ@ë€khr{7Ì÷±.÷ÐË³ñÃÆ‹ss§K¾£§[ùâGŸ´n8
+óÔ`w55úZ„³Ó¢–ïËÇ¥UOé?çZ×^šâïJ¹—Py¥ÓåVŒ2R˜Ãp?ˆàôã€2k|Ú@dü”ó'P’0¸À'¾2:¹U„uk_!(ÉîyÝ½»Mi Å\E&“aÝ	4lçñi1ÿ  ­â=Zß_ðÌ°Xy‡ÌÕ"Ó¤¸<\*ÈG¨Øî+CSÐMŸ„ãÓ´”½¬°ÏsHNóË!Ëœ§“Þ¥°Ñ&¶¼²,ðµ´+>ó€Ê[0CõÅS©ïßg§Êß˜­%¡·¼1Í,±Æ‹,¸28-“ßŠ–Š+ˆÔ(¢Š (ÀÎh¢€
+(¢€
+(¢€
+(¢€
+(¢€
+(¢€?ÿÙ
+endstream
+endobj
+2 0 obj
+<</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 11 0 R
+/F2 12 0 R
+/F3 13 0 R
+/F4 14 0 R
+>>
+/XObject <<
+/I1 15 0 R
+/I2 16 0 R
+>>
+>>
+endobj
+17 0 obj
+<<
+/Producer (FPDF for ASP v.1.01 beta by Lorenzo Abbati [www.aspxnet.it])
+/CreationDate (D:2021911185925)
+>>
+endobj
+18 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000014208 00000 n 
+0000032536 00000 n 
+0000000036 00000 n 
+0000000114 00000 n 
+0000003724 00000 n 
+0000003802 00000 n 
+0000007430 00000 n 
+0000007508 00000 n 
+0000010818 00000 n 
+0000010897 00000 n 
+0000014313 00000 n 
+0000014415 00000 n 
+0000014512 00000 n 
+0000014621 00000 n 
+0000014726 00000 n 
+0000023986 00000 n 
+0000032695 00000 n 
+0000032821 00000 n 
+trailer
+<<
+/Size 19
+/Root 18 0 R
+/Info 17 0 R
+>>
+startxref
+32925
+%%EOF
